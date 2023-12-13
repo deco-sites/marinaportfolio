@@ -12,17 +12,17 @@ import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
 const manifest = {
   "sections": {
-    "deco-sites/start/sections/Footer.tsx": $$$$$$1,
-    "deco-sites/start/sections/Hero.tsx": $$$$$$0,
-    "deco-sites/start/sections/ParagraphList.tsx": $$$$$$4,
-    "deco-sites/start/sections/SimpleTextList.tsx": $$$$$$3,
-    "deco-sites/start/sections/Theme/Theme.tsx": $$$$$$2,
+    "deco-sites/marinaportfolio/sections/Footer.tsx": $$$$$$1,
+    "deco-sites/marinaportfolio/sections/Hero.tsx": $$$$$$0,
+    "deco-sites/marinaportfolio/sections/ParagraphList.tsx": $$$$$$4,
+    "deco-sites/marinaportfolio/sections/SimpleTextList.tsx": $$$$$$3,
+    "deco-sites/marinaportfolio/sections/Theme/Theme.tsx": $$$$$$2,
   },
   "apps": {
-    "deco-sites/start/apps/decohub.ts": $$$$$$$$$$$0,
-    "deco-sites/start/apps/site.ts": $$$$$$$$$$$1,
+    "deco-sites/marinaportfolio/apps/decohub.ts": $$$$$$$$$$$0,
+    "deco-sites/marinaportfolio/apps/site.ts": $$$$$$$$$$$1,
   },
-  "name": "deco-sites/start",
+  "name": "deco-sites/marinaportfolio",
   "baseUrl": import.meta.url,
 };
 
